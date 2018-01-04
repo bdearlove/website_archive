@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vet School at the Cambridge Science Festival"
+title: "Vet School at Cambridge Science Festival"
 author: "Bethany Dearlove"
 tags: [Cambridge Science Festival,outreach]
 image: sci-fest-header.jpg
