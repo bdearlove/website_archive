@@ -8,14 +8,24 @@ google-ID: 'UA-111979859-1'
 
 menu:
 - {name: 'Research', url: 'about.html'}
-- {name: 'Blog', url: 'writing.html'}
+- {name: 'Blog', url: 'blog.html'}
 - {name: 'CV', url: 'cv.html'}
 - {name: 'Contact', url: 'contact.html'}
 
 social:
 - {icon: 'github', link: 'https://www.github.com/bdearlove'}
 - {icon: 'twitter', link: 'https://twitter.com/bethanydearlove'}
+- {icon: 'rss-square', link: 'feed.xml'}
 
+# Customize site text
+pagination:
+  next_page: 'Newer'
+  previous_page: 'Older'
 
+sharing_button_prompt: 'Feel free to share!'
+
+related_posts: 'Other posts you might like:'
+
+#post_date_prefix: 'Written on'
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
