@@ -7,10 +7,10 @@ author:
 google-ID: 'UA-111979859-1'
 
 menu:
-- {name: 'Research', url: 'about.html'}
-- {name: 'Blog', url: 'writing.html'}
-- {name: 'CV', url: 'cv.html'}
-- {name: 'Contact', url: 'contact.html'}
+- {name: 'Research', path: 'menu', url: 'about.html'}
+- {name: 'Blog', path: 'menu', url: 'writing.html'}
+- {name: 'CV', path: 'menu', url: 'cv.html'}
+- {name: 'Contact', path: 'menu', url: 'contact.html'}
 
 social:
 - {icon: 'github', link: 'https://www.github.com/bdearlove'}
