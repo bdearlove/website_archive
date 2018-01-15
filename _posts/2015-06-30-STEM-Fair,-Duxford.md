@@ -2,7 +2,7 @@
 layout: post
 title: "STEM Fair, Duxford"
 author: "Bethany Dearlove"
-tags: [I'm a Scientist, outreach]
+tags: [STEM fair, STEM ambassador, outreach]
 image: stemfair2015.jpg
 ---
 
