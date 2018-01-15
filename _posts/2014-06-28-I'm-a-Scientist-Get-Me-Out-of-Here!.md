@@ -3,7 +3,7 @@ layout: post
 title: "I'm a Scientist Get Me Out of Here!"
 author: "Bethany Dearlove"
 tags: [I'm a Scientist, outreach]
-image: ias2014.jpg
+image: ias2014.png
 ---
 
 Over the last two weeks, I've been taking part in [_I'm a Scientist, get me out of here!_](https://imascientist.org.uk/) as one of five scientists in the [Infectious Diseases zone](https://diseasej14.imascientist.org.uk/). _I'm a Scientist_ gives school pupils the chance to talk to scientists online - and most importantly, I think, ask us anything they like! I got a whole range of questions about DNA, evolution and infectious diseases, but also on a lot of other things...from my favourite colour/band/animal, to [what makes us human](https://diseasej14.imascientist.org.uk/2014/06/22/what-makes-us-human/), [whether I wear make up](https://diseasej14.imascientist.org.uk/2014/06/20/how-much-make-up-do-you-wear-on-a-daily-basis/) and [how I would fend off a meteor headed to earth](https://diseasej14.imascientist.org.uk/2014/06/25/if-a-meteor-was-heading-to-earth-how-world-you-get-rid-of-it/)! I think some of the students were surprised to find out how normal we are, and that's one of the reasons doing outreach is so important to me. I've lost count of the times of entered a classroom for murmurings to go round that I didn't fit the stereotype they expected.
