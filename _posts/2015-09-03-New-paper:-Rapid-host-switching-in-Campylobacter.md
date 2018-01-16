@@ -3,7 +3,7 @@ layout: post
 title: "New paper: Rapid host switching in _Campylobacter_"
 author: "Bethany Dearlove"
 tags: [research, Campylobacter, new paper]
-image: 
+image: campyplot.png
 ---
 
 My new paper with [Daniel Wilson](www.danielwilson.me.uk/), [Sam Sheppard](https://sheppardlab.com/) and colleagues on [rapid host switching in generalist Campylobacter strains](https://www.nature.com/articles/ismej2015149) has been published in The ISME Journal (open access). 
