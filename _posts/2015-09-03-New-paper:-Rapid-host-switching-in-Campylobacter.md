@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "New paper: Rapid host switching in _Campylobacter_"
+title: "New paper: Rapid host switching in Campylobacter"
 author: "Bethany Dearlove"
 tags: [research, Campylobacter, new paper]
 image: campyplot.png
 ---
 
-My new paper with [Daniel Wilson](www.danielwilson.me.uk/), [Sam Sheppard](https://sheppardlab.com/) and colleagues on [rapid host switching in generalist Campylobacter strains](https://www.nature.com/articles/ismej2015149) has been published in The ISME Journal (open access). 
+My new paper with [Daniel Wilson](www.danielwilson.me.uk/), [Sam Sheppard](https://sheppardlab.com/) and colleagues on [rapid host switching in generalist _Campylobacter_ strains](https://www.nature.com/articles/ismej2015149) has been published in The ISME Journal (open access). 
 
 _Campylobacter_ is the most commonly identified cause of bacterial gastroenteritis worldwide - with more cases than _Salmonella_, _E. coli_, _Clostridium_ and _Listeria_ combined. Infection is generally associated with food poisoning, particularly the consumption of raw poultry products. However, the _Campylobacter_ genus comprises several widely distributed species of zoonotic pathogens, carried, often asymptomatically, in the gut microbiota of a range of mammalian and avian species, including, notably, those found on farms. As a consequence, opportunities for contamination of products including meat, poultry and unpasteurised milk can take place at any time from farmyard to fork. Although some strains of Campylobacter are only found in a single species, others appear associated with numerous host species. Indeed, some of the most common lineages associated with human disease are found frequently in both chicken and cattle, making it hard to infer the true source of infection. 
 
