@@ -3,7 +3,7 @@ layout: post
 title: "New paper: Biased phylodynamic inferences from clusters"
 author: "Bethany Dearlove"
 tags: [research, phylodynamics, new paper, clustering, HIV]
-image: "clusters.png"
+image: clusters.png
 ---
 
 My [new paper](https://academic.oup.com/ve/article/3/2/vex020/4061302) with [Simon Frost](https://twitter.com/sdwfrost) and [Fei Xiang](https://github.com/xiangfstats) is out in _Virus Evolution_ showing how using phylogenetic clusters for phylodynamic investigation is problematic. Importantly, false clusters can masquerade as growing epidemics despite being identified from a randomly mixing, constant-sized population. We also show how other implicit biases can have an impact on parameter estimation and model selection, in part due to left censoring in the first coalescence event. 
