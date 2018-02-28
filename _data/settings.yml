@@ -15,7 +15,7 @@ menu:
 social:
 - {icon: 'github', link: 'https://www.github.com/bdearlove'}
 - {icon: 'twitter', link: 'https://twitter.com/bethanydearlove'}
-- {icon: 'rss-square', link: 'rss-feed.xml'}
+- {icon: 'orcid', link: 'https://orcid.org/0000-0003-3653-4592'}
 
 # Customize site text
 pagination:
