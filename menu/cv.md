@@ -45,6 +45,6 @@ title: ""
     <td>2006-2009 </td>
     <td>Undergraduate Scholarship, University of Reading</td>
   </tr>  
-
+</table>
 
 Full publication list available on [Google Scholar](https://scholar.google.com/citations?user=YwTHmHYAAAAJ&hl=en).
